@@ -16,7 +16,6 @@ It focuses on turning raw data into clear, actionable insights for decision-maki
 
 ## Files in This Repository
 - `.pbix` file – Power BI dashboard
-- Dataset file – source data used for analysis
 - Screenshot(s) – dashboard preview
 - <img width="1102" height="619" alt="dashboard 1" src="https://github.com/user-attachments/assets/c8957e79-d85e-4f2c-90e4-9410a5d5c4fd" />
 ## How to Use
@@ -25,6 +24,6 @@ It focuses on turning raw data into clear, actionable insights for decision-maki
 3. Interact with filters and visuals
 
 ## Author
-**Duncan McGene**  
+**Duncan Mosipha**  
 BEngTech Industrial Engineering Graduate  
 Aspiring Data & Business Intelligence Analyst
